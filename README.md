@@ -39,7 +39,7 @@ O objetivo principal é entender o perfil dos clientes que tendem a deixar o ban
 
 ---
 
-## 🔍 Etapas da Análise
+## Etapas da Análise
 
 1. **Entendimento Inicial dos Dados**
    - Verificação de tipos de dados
@@ -55,7 +55,7 @@ O objetivo principal é entender o perfil dos clientes que tendem a deixar o ban
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 - Python 
 - Jupyter Notebook (via VS Code)
